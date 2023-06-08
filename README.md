@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @deepak9518
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Ruby on Rails(RoR)
+- 👀 I’m interested in Full Stack Blockchain Development
 - 📫 How to reach me deepaksharmabalu1@gmail.com
 
 <!---
